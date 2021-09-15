@@ -4,6 +4,22 @@
 
 This repository contains the code necessary to perform Fluorescein Angiography (FA) and Optical Coherence Tomography Angiography (OCTA) image registration.
 
+*_The code will be published soon._*
+
+    @article{MartinezRio2021,
+        title = {Robust multimodal registration of fluorescein angiography and optical coherence tomography angiography images using evolutionary algorithms},
+        journal = {Computers in Biology and Medicine},
+        volume = {134},
+        pages = {104529},
+        year = {2021},
+        issn = {0010-4825},
+        doi = {https://doi.org/10.1016/j.compbiomed.2021.104529},
+        url = {https://www.sciencedirect.com/science/article/pii/S0010482521003231},
+        author = {Javier Martínez-Río and Enrique J. Carmona and Daniel Cancelas and Jorge Novo and Marcos Ortega},
+        keywords = {Multimodal image registration, OCT-Angiography, Fluorescein angiography, Differential evolution, Template matching},
+    }
+
+
 <!--
 ## 1. License
 
@@ -13,7 +29,7 @@ If you use this library in an academic work, please cite:
 
     @article{
      }
--->
+
 
 ## Instalation
 ### Requierements
@@ -27,3 +43,4 @@ You need Python 3.6 or later to run this project. Additionally, it is necessary 
 - matplotlib 3.3.1
 - scipy 1.5.2
 - tqdm 4.46.1
+-->
