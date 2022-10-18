@@ -2,7 +2,7 @@
 **Authors:** Javier Martínez (that's me! :smirk:) & [Enrique J. Carmona](http://www.ia.uned.es/~ejcarmona/) & [Daniel Cancelas](https://github.com/DanielCancelas) 
 
 ## Introduction
-This repository contains the code necessary to perform OCTA (Optical Coherence Tomography Angiography) with Fluorescein Angiography (FA), although it could also be used with other dye angiography such as Indocyanine Green Angiography (ICGA). Details of the method used can be found in our article, so if you use this project, please do not forget to quote us:
+This repository contains the code necessary to perform OCTA (Optical Coherence Tomography Angiography) and Fluorescein Angiography (FA) image registration, although it could also be used with other dye angiography such as Indocyanine Green Angiography (ICGA). Details of the method used can be found in our article, so if you use this project, please do not forget to quote us:
 
     @article{MartinezRio2021,
         title = {Robust multimodal registration of fluorescein angiography and optical coherence tomography angiography images using evolutionary algorithms},
